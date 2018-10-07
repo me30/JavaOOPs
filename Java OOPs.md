@@ -19,10 +19,9 @@ OOPs Concept :
 - Polymorphism means taking many forms, where ‘poly’ means many and ‘morph’ means forms.
 - It is the ability of a variable, function or object to take on multiple forms. 
 - In other words, polymorphism allows you define one interface or method and have multiple implementations.
-
--- Polymorphism in Java is of two types: 
-a) Static Binding - Compile time polymorphism - check at complie time - function overloading
-b) Dynamic Binding - Run time polymorphism - check at runtime - function overriding 
+- Polymorphism in Java is of two types: 
+  - a) Static Binding - Compile time polymorphism - check at complie time - function overloading
+  - b) Dynamic Binding - Run time polymorphism - check at runtime - function overriding 
 
 4) Abstraction:
 - something which is unknown
