@@ -49,8 +49,8 @@ A a1 = new A();
 
 so there are two type memeory allow:
 
-stack        heap
-a1     ---->  i
-              ch
+- a1 object is store in stack memeory.
+- variable i & ch is store in heap memory.
+
 
 
