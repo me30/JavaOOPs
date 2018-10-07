@@ -31,7 +31,9 @@ OOPs Concept :
 # Class 
 
 class A {
+
    int i;
+    
    char ch;
    
    void get(){
