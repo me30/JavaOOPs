@@ -6,7 +6,7 @@ OOPs Concept :
 2) Polymorphism
 3) Encapsulation
 4) Abstraction
-
+ 
 1)Encapsulation :-
 - Encapsulation means putting togather all variable and methods in to single unit called as class.
 - Class is user define data type.
