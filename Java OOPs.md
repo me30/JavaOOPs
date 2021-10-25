@@ -16,7 +16,7 @@ OOPs Concept :
 - The class which is inherited is called the Base class & the class which inherits is called the Derived class. They are also called parent and child class.
 
 3)Polymorphism:
-- Polymorphism means taking many forms, where ‘poly’ means many and ‘morph’ means forms.
+- Polymorphism means taking many forms, where ‘poly’ means many and ‘morph’ means forms. 
 - It is the ability of a variable, function or object to take on multiple forms. 
 - In other words, polymorphism allows you define one interface or method and have multiple implementations.
 - Polymorphism in Java is of two types: 
